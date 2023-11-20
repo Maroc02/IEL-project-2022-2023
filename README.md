@@ -1,12 +1,12 @@
 @author ~ Marek Čupr (xcuprm01)
 
-Body:
+Points:
 
-Priklad 1 – 2/2\
-Priklad 2 – 1/1\
-Priklad 3 – 2/2\
-Priklad 4 - 1,5/2\
-Priklad 5 - 2/2\
-Celkove zpracovani - 3/3
+Task 1 – 2/2\
+Task 2 – 1/1\
+Task 3 – 2/2\
+Task 4 - 1,5/2\
+Task 5 - 2/2\
+Overall project 'look' - 3/3
 
-Body celkem - 11,5/12
+Points in total - 11,5/12
